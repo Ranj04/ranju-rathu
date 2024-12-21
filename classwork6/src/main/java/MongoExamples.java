@@ -7,7 +7,7 @@ import org.bson.Document;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MongoExamples {
+public class MongoExampless {
 
     public static void main(String args[]) {
         // open connection
